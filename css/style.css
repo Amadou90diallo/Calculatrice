@@ -1,0 +1,26 @@
+.container{
+	margin: auto;
+	text-align: center;
+}
+
+#resultat{
+	margin: 150px 0 30px -45px;
+}
+
+#line_of_operateurs{
+	margin: 10px 0 0px 0;
+}
+
+#first_line_of_number{
+	margin: 10px 0 0px 0;
+}
+
+
+#second_line_of_number{
+	margin: 10px 0 0px 0;
+}
+
+#third_line_of_number{
+	margin: 10px 0 0px 0;
+}
+
